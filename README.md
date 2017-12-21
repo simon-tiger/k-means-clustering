@@ -9,7 +9,7 @@ K-Means Clustering is a type of Machine Learning Model. It's for "Unsupervised L
 * Place centroids c1 ... ck at random locations
 * Repeat until convergence:
   * for each point xi:
-    * find nearet centroid cj
+    * find nearest centroid cj
     * assign the point xi to cluster j
   * for each cluster j = 1 ... K:
     * new centroid cj = mean of all points xi assigned to cluster k in previous step
